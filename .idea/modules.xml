@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tasks_boolean.iml" filepath="$PROJECT_DIR$/Tasks_boolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks_boolean.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks_boolean.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks_boolean.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks_boolean.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Tasks_on_Java.iml" filepath="$PROJECT_DIR$/.idea/Tasks_on_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tasks_print.iml" filepath="$PROJECT_DIR$/Tasks_print.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks_print.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks_print.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks_print.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks_print.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks_remainders.iml" filepath="$PROJECT_DIR$/Tasks_remainders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks_remainders.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks_remainders.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks_remainders.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks_remainders.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks_variables.iml" filepath="$PROJECT_DIR$/Tasks_variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks_variables.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks_variables.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tasks_variables.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tasks_variables.test.iml" />
     </modules>
   </component>
 </project>

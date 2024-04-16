@@ -2,9 +2,18 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Tasks_boolean" target="19" />
+      <module name="Tasks_boolean.main" target="19" />
+      <module name="Tasks_boolean.test" target="19" />
       <module name="Tasks_print" target="19" />
       <module name="Tasks_print.main" target="19" />
       <module name="Tasks_print.test" target="19" />
+      <module name="Tasks_remainders" target="19" />
+      <module name="Tasks_remainders.main" target="19" />
+      <module name="Tasks_remainders.test" target="19" />
+      <module name="Tasks_variables" target="19" />
+      <module name="Tasks_variables.main" target="19" />
+      <module name="Tasks_variables.test" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
