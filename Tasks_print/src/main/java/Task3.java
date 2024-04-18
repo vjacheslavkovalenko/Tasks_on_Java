@@ -22,7 +22,7 @@ public class Task3 {
       System.out.println("Значение первой переменной: " + x + ". " + "Значение второй переменной: " + y + ".");
       System.out.println("Произведение переменных: " + x*y + ".");
       System.out.println("Сумма переменных: " + sum + ".");
-      
+
     }
 
 }
